@@ -1,0 +1,14 @@
+[
+  {
+    "username": "user1",
+    "password": "pass123",
+    "token": "TOKEN_BOT_TELEGRAM_USER1",
+    "owner_id": "6816366628"
+  },
+  {
+    "username": "user2",
+    "password": "passwordku",
+    "token": "TOKEN_BOT_USER2",
+    "owner_id": "1234567890"
+  }
+]
