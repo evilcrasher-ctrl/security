@@ -10,5 +10,11 @@
     "password": "passwordku",
     "token": "TOKEN_BOT_USER2",
     "owner_id": "1234567890"
+  },
+  {
+    "username": "darkness",
+    "password": "123",
+    "token": "7610605405:AAEMcsKOmchciGsNH1zfqVfQYc7oOG7bXw8",
+    "owner_id": "8041251549"
   }
 ]
