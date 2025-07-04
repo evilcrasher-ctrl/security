@@ -10,5 +10,9 @@
     "password": "passwordku",
     "token": "TOKEN_BOT_USER2",
     "owner_id": "1234567890"
+  },
+  {
+    "id": "6816366628",
+    "role": "owner"
   }
 ]
