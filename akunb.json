@@ -2,11 +2,7 @@
   {
     "username": "admin",
     "password": "123"
-  },
-  {
-    "username": "johndoe",
-    "password": "abc"
-  },
+  }, 
   {
     "username": "admin2",
     "password": "2322"
@@ -14,11 +10,7 @@
   {
     "username": "Hadiefhanser",
     "password": "15121617"
-  },
-  {
-    "username": "1",
-    "password": "1"
-  },
+  }, 
   {
     "username": "amruxploit",
     "password": "admin123"
